@@ -1,4 +1,5 @@
 Google Doc Cheat Sheat ➡️ https://docs.google.com/document/d/1DD98JsRJEnzD2DafkJ16VdHnk1yfBsHEhzf-V4xpYY8/edit?usp=sharing
+Install Python ➡️ https://www.youtube.com/watch?v=7snh_1Hf_TI
 
 This application is a simple FPS calculator with a graphical user interface (GUI) that helps users determine how long each picture (frame) should be displayed in a video editor based on a desired FPS (frames per second). Here's how the application works:
 
