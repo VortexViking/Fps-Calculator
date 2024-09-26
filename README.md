@@ -1,3 +1,5 @@
+Google Doc Cheat Sheat ➡️ https://docs.google.com/document/d/1DD98JsRJEnzD2DafkJ16VdHnk1yfBsHEhzf-V4xpYY8/edit?usp=sharing
+
 This application is a simple FPS calculator with a graphical user interface (GUI) that helps users determine how long each picture (frame) should be displayed in a video editor based on a desired FPS (frames per second). Here's how the application works:
 
 1. When you open the application, you'll see a window with two input fields and a button:
